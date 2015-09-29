@@ -9,6 +9,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Applications](#applications)
+    - [Resources](#resources)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
@@ -33,11 +34,19 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [q](http://harelba.github.io/q/) - Command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
-- [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it.  There is a [great tutorial](http://rpubs.com/johndharrison/12843).  
+- [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it.  There is a [great tutorial](http://rpubs.com/johndharrison/12843).
+- [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3
 
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Applications
+
+**[:arrow_up: back to top](#table-of-contents)**
+
+## Resources
+- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
+- [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
+- [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
