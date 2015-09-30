@@ -44,6 +44,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 ## Who to follow
 
 **[:arrow_up: back to top](#table-of-contents)**
+- [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
+
 
 # More awesome
 
