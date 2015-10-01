@@ -5,6 +5,7 @@
 Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
 ## Table of Contents
+
 - [Awesome Civic](#awesome-civic)
     - [Libraries](#libraries)
     - [Tools](#tools)
@@ -15,6 +16,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
 ## Libraries
+
 *Awesome libraries to help get your civic duty on*
 
 - [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
@@ -61,9 +63,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Resources
+
 - [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
+- [Sporkability](https://github.com/open-austin/sporkability) - Simple list of country shapes and data in JSON/CSV format.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
