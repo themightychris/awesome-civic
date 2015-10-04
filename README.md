@@ -42,17 +42,17 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **Implementations**
 
+- [AmMaps](http://www.amcharts.com/javascript-maps/) – An SVG-based mapping implementation by the folks that make [AmCharts](http://amcharts.com).
 - [Google Maps](https://developers.google.com/maps/) – The de facto Javascript mapping library.
 - [LeafletJS](http://leafletjs.com/) –  An alternative, open-source Javascript mapping library.
 - [Mapbox](https://www.mapbox.com/) – A themed, cloud-hosted LeafletJS implementation.
-- [AmMaps](http://www.amcharts.com/javascript-maps/) – An SVG-based mapping implementation by the folks that make [AmCharts](http://amcharts.com).
 
 **Tools**
 
-- [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
-- [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
 - [Geojson.io](http://geojson.io/#map=2/20.0/0.0) – A GUI to alter your GeoJSOn files or view it in a tabular form.
 - [Google Maps geojson Editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/) - A tool to prune and move GeoJSON points on a map.
+- [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
+- [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -61,16 +61,16 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Resources
-- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
+- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
+- [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
 
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Who to follow
 
 **[:arrow_up: back to top](#table-of-contents)**
-- [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
 
 
 # More awesome
