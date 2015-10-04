@@ -67,7 +67,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
-- [Sporkability](https://github.com/open-austin/sporkability) - Simple list of country shapes and data in JSON/CSV format.
+- [Sporkability](https://github.com/open-austin/sporkability) - Best practices for making projects easy to fork.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
