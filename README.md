@@ -65,6 +65,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
 - [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
+- [Open Procure](http://openprocure.us/) - Open Source list of Public Agencies Procurement Thresholds
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
