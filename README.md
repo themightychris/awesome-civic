@@ -11,6 +11,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Tools](#tools)
     - [Applications](#applications)
     - [Resources](#resources)
+    - [Design](#Design)
     - [Who to follow](#who-to-follow)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
@@ -73,6 +74,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Open Procure](http://openprocure.us/) - Open Source list of Public Agencies Procurement Thresholds
 
 **[:arrow_up: back to top](#table-of-contents)**
+
+## Design
+
+- [Invision](http://www.invisionapp.com/) - Create interactive mockups/prototypes in the browser. One project is free.
+- [Balsamiq](https://balsamiq.com/) - Really easy to use mockup website/desktop app. Email Balsamiq for a [free "do-gooder" license](http://support.balsamiq.com/customer/portal/articles/105924#qualify).
+- [POP App](https://popapp.in/) - Draw your mockup on paper, then take photos with this app to make interactive. First two projects are free.
 
 ## Who to follow
 
