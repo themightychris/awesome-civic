@@ -63,7 +63,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 **[:arrow_up: back to top](#table-of-contents)**
 
 ## Resources
-<<<<<<< HEAD
 
 - [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
