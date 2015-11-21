@@ -21,8 +21,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 - [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
 
-**[:arrow_up: back to top](#table-of-contents)**
-
 ## Tools
 
 *Awesome tools to help get your civic duty on*
@@ -56,11 +54,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
 - [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
 
-**[:arrow_up: back to top](#table-of-contents)**
-
 ## Applications
-
-**[:arrow_up: back to top](#table-of-contents)**
 
 ## Resources
 
@@ -72,12 +66,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
 - [Open Procure](http://openprocure.us/) - Open Source list of Public Agencies Procurement Thresholds
 
-**[:arrow_up: back to top](#table-of-contents)**
-
 ## Who to follow
 
-**[:arrow_up: back to top](#table-of-contents)**
-
+Civic hackers doing interesting things on GitHub.
 
 # More awesome
 
@@ -85,8 +76,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 - <a href="https://github.com/sindresorhus/awesome" target="_blank">awesome</a> by [**@sindresorhus**](https://github.com/sindresorhus)
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">awesome-awesomeness</a> by [**@bayandin**](https://github.com/bayandin)
-
-**[:arrow_up: back to top](#table-of-contents)**
 
 ## License
 
