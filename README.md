@@ -1,8 +1,8 @@
 # Awesome Civic Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A list of resources for awesome civic software (tools | libraries | applications)
+> A list of resources for awesome civic software tools, libraries, and applications.
 
-Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
+Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">improve</a> this list.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Awesome tools to help get your civic duty on*
 
 - [jq](https://stedolan.github.io/jq/) A lightweight and flexible command-line JSON processor.
-- [Miller](https://github.com/johnkerl/miller) is like sed, awk, cut, join, and sort for name-indexed data such as CSV
+- [Miller](https://github.com/johnkerl/miller) is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
 - [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
 - [datamash](http://www.gnu.org/software/datamash/) - Command line tool to perform simple calculation (e.g. count, sum, min, max, mean, stdev, string coalescing) on input files.
@@ -36,7 +36,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
 - [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it.  There is a [great tutorial](http://rpubs.com/johndharrison/12843).
-- [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3
+- [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3.
 
 ### Mapping
 
@@ -49,7 +49,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 **Tools**
 
-- [Geojson.io](http://geojson.io/#map=2/20.0/0.0) – A GUI to alter your GeoJSOn files or view it in a tabular form.
+- [Geojson.io](http://geojson.io/#map=2/20.0/0.0) – A GUI to alter your GeoJSON files or view it in a tabular form.
 - [Google Maps geojson Editor](https://google-developers.appspot.com/maps/documentation/utils/geojson/) - A tool to prune and move GeoJSON points on a map.
 - [Map Shaper](http://www.mapshaper.org/) – A tool to optimize your GeoJSON files to increase pageload times.
 - [Map Starter](http://www.mapstarter.com/) – A GUI to intuitively manipulate and export a GeoJSON/TopoJSON file.
@@ -63,8 +63,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 - [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
 - [Sporkability](https://github.com/open-austin/sporkability) - Best practices for making projects easy to fork.
-- [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy guidebook and open data assessment and playbook
-- [Open Procure](http://openprocure.us/) - Open Source list of Public Agencies Procurement Thresholds
+- [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy's open data assessment and playbook.
+- [Open Procure](http://openprocure.us/) - Open source list of Public Agencies Procurement Thresholds.
 
 ## Who to follow
 
