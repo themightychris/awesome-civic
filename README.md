@@ -25,17 +25,17 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 *Awesome tools to help get your civic duty on*
 
-- [jq](https://stedolan.github.io/jq/) A lightweight and flexible command-line JSON processor.
-- [Miller](https://github.com/johnkerl/miller) is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
+- [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
+- [Miller](https://github.com/johnkerl/miller) - Command line tool that is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
 - [csvkit](https://github.com/onyxfish/csvkit) - A suite of utilities for converting to and working with CSV files.
 - [datamash](http://www.gnu.org/software/datamash/) - Command line tool to perform simple calculation (e.g. count, sum, min, max, mean, stdev, string coalescing) on input files.
 - [data-tools](https://github.com/clarkgrubb/data-tools) - Command line tools for data extraction, data manipulation, and file format conversion.
-- [json2csv](https://github.com/jehiah/json2csv) - Command line tool to convert json to csv.
+- [json2csv](https://github.com/jehiah/json2csv) - Command line tool to convert JSON to CSV.
 - [q](http://harelba.github.io/q/) - Command line tool that allows direct execution of SQL-like queries on CSVs/TSVs (and any other tabular text files).
 - [subsample](https://github.com/paulgb/subsample) - Command line tool for sampling data from a large, newline-separated dataset (typically a CSV-like file).
 - [tabula](http://tabula.technology/) - A tool for liberating data tables locked inside PDF files.
-- [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it.  There is a [great tutorial](http://rpubs.com/johndharrison/12843).
+- [RSelenium](https://github.com/ropensci/RSelenium) - A great R package webscraping hard to get data with Selenium without using java. Don't be afraid to try it. There is a [great tutorial](http://rpubs.com/johndharrison/12843).
 - [S3 Website](https://github.com/laurilehmijoki/s3_website) - A tool for pushing static websites to S3.
 
 ### Mapping
@@ -44,7 +44,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 - [AmMaps](http://www.amcharts.com/javascript-maps/) – An SVG-based mapping implementation by the folks that make [AmCharts](http://amcharts.com).
 - [Google Maps](https://developers.google.com/maps/) – The de facto Javascript mapping library.
-- [LeafletJS](http://leafletjs.com/) –  An alternative, open-source Javascript mapping library.
+- [LeafletJS](http://leafletjs.com/) – An alternative, open-source Javascript mapping library.
 - [Mapbox](https://www.mapbox.com/) – A themed, cloud-hosted LeafletJS implementation.
 
 **Tools**
@@ -58,9 +58,8 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Resources
 
-- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
-- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Brigades.
+- [Code For America](http://www.codeforamerica.org/brigade/tools/) - Resources offered to Code for America Brigades.
 - [Countries in CSV](https://github.com/mledoze/countries) - Simple list of country shapes and data in JSON/CSV format.
 - [Sporkability](https://github.com/open-austin/sporkability) - Best practices for making projects easy to fork.
 - [San Diego Open Data Implementation Guide](https://datasd.gitbooks.io/council_report/) - Maksim Pecherskiy's open data assessment and playbook.
