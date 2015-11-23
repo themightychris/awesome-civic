@@ -12,6 +12,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
     - [Applications](#applications)
     - [Resources](#resources)
     - [Who to follow](#who-to-follow)
+    - [Icons](#icons)
 - [More awesome](#more-awesome)
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
@@ -68,6 +69,11 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 ## Who to follow
 
 Civic hackers doing interesting things on GitHub.
+
+## Icons
+
+- [Maki](https://www.mapbox.com/maki/) - Icons for maps. CC0 public domain license. SVG and common PNG sizes.
+- [The Noun Project](https://thenounproject.com/) - Find basically any icon. [Some icons are public domain, others are free but require attribution (or a $1.99 fee)](https://thenounproject.zendesk.com/hc/en-us/articles/200509798-What-licenses-do-you-use-). SVG and PNG. 
 
 # More awesome
 
