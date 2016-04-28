@@ -7,7 +7,7 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 ## Table of Contents
 
 - [Awesome Civic](#awesome-civic)
-    - [Libraries](#libraries)
+    - [Data](#data)
     - [Tools](#tools)
     - [Applications](#applications)
     - [Resources](#resources)
@@ -17,16 +17,15 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 - [More awesome](#more-awesome)
 - <a href="https://github.com/codeforhawaii/awesome-civic/blob/master/CONTRIBUTION.md" target="_blank">Contribution Guidelines</a>
 
-## Libraries
+## Data
 
-*Awesome libraries to help get your civic duty on*
-
-- [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
+- [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Tools
 
 *Awesome tools to help get your civic duty on*
 
+- [DataTables](https://www.datatables.net/) - A [jQuery](http://jquery.com/) Javascript plugin to help enhance table display.
 - [jq](https://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 - [Miller](https://github.com/johnkerl/miller) - Command line tool that is like sed, awk, cut, join, and sort for name-indexed data such as CSV.
 - [csvdedupe](https://github.com/datamade/csvdedupe) - Command line tool using the [dedupe](https://github.com/datamade/dedupe) python library for deduplicating CSV files.
