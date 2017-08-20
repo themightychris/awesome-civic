@@ -57,6 +57,9 @@ Inspired by the [awesome](#more-awesome) list. Feel free to <a href="https://git
 
 ## Applications
 
+- [DemocracyOS](http://democracyos.org) - An open-source platform for public policy feedback and voting.
+- [Next.OpenSpending.Org](http://next.openspending.org) - Powerful web application that allows you to convert municipal budgets into Frictionless Data's Fiscal Data Package and quickly generate bespoke, d3-based visualizations with a single-click.
+
 ## Resources
 
 - [AWS in plain english](https://www.expeditedssl.com/aws-in-plain-english) - Explains AWS capabilities in simple terms.
